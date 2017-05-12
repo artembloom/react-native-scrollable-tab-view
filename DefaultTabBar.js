@@ -86,20 +86,19 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingBottom: 10,
   },
   flexOne: {
     flex: 1,
   },
   tabs: {
-    height: 50,
+    height: 48,
     flexDirection: 'row',
     justifyContent: 'space-around',
     borderWidth: 1,
     borderTopWidth: 0,
     borderLeftWidth: 0,
     borderRightWidth: 0,
-    borderColor: '#ccc',
+    borderColor: '#f0f0f0',
   },
 });
 
